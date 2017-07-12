@@ -1,7 +1,7 @@
 Package: com.jake.penguintheme
 Version: 0.0.1
 Architecture: iphoneos-arm
-Depends: com.amenometheming.amenome
+Depends: com.aneonetheming.anemone
 Filename: /Theme.deb
 Size: 52700
 MD5sum: 46307ff440a72b58409583c16046d26a
