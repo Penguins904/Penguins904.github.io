@@ -2,7 +2,7 @@ Package: com.jake.penguintheme
 Version: 1.1
 Architecture: iphoneos-arm
 Depends: com.anemonetheming.anemone
-Filename: /Theme.deb
+Filename: /Penguin.deb
 Size: 515892 
 MD5sum: c03bf1abc14f98ecd7b425ff2690d621
 SHA1: 3271d21da718be0e7e633486be16fc56c9d75818
@@ -11,5 +11,3 @@ Section: Themes
 Description: Penguin icons
 Author: Jake <jenkinsjake04@gmail.com>
 Name: Penguin Theme
-
-
