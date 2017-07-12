@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Depends: com.amenometheming.amenome
 Filename: /Theme.deb
 Size: 52700
-MD5sum: 46307ff440a72b58409583c16046d26a
-SHA1: 241c38892f1cb570507f230af8438037a8ec5d3f
-SHA256: f7be0898543753c7c329d26b73a84cbbfbfa1cae448fa8ce6e20524a38700b5e
+MD5sum: 54785aad2e070355954927ff4c83572f
+SHA1: d0214dc1fa06865df1ac9fec6b0ad8a793f13242
+SHA256: 88ae06c8a0ddd46beb5f84fb20aa366e0b46fd96ff7642a05ded3c04e8a79c74
 Section: <Themes>
 Description: Test Theme
 Author: Jake
