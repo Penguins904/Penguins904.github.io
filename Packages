@@ -6,10 +6,8 @@ Filename: /Penguin.deb
 Size: 515892 
 MD5sum: 78ff82b9d3f8ef2d81de71858b45e761
 SHA1: 07348eb3cb5f74a097461432341d9a023acb09b3
-SHA256: 2ab00e341b8de99e5ea691c6e93633210fbdd256422e2f7cdde95502991de14f30a4e27fc55e51
+SHA256: 2ab00e341b8de99e5ea691c6e93633210fbdd256422e2f7cdde95502991de14f
 Section: Themes
 Description: Penguin icons
 Author: Jake <jenkinsjake04@gmail.com>
 Name: Penguin Theme
-
-
