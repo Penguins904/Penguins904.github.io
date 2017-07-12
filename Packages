@@ -4,10 +4,11 @@ Architecture: iphoneos-arm
 Depends: com.anemonetheming.anemone
 Filename: /Penguin.deb
 Size: 515892 
-MD5sum: c03bf1abc14f98ecd7b425ff2690d621
-SHA1: 3271d21da718be0e7e633486be16fc56c9d75818
-SHA256: 30c727c2ecd444434ca996bf0c0c57c510e7bceed5840652e830a4e27fc55e51
+MD5sum: 78ff82b9d3f8ef2d81de71858b45e761
+SHA1: 07348eb3cb5f74a097461432341d9a023acb09b3
+SHA256: 2ab00e341b8de99e5ea691c6e93633210fbdd256422e2f7cdde95502991de14f30a4e27fc55e51
 Section: Themes
 Description: Penguin icons
 Author: Jake <jenkinsjake04@gmail.com>
 Name: Penguin Theme
+
