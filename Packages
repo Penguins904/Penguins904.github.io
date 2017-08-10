@@ -12,3 +12,18 @@ Description: Penguin are cool!
 Author: Jake <jenkinsjake04@gmail.com>
 Name: The Penguin's Theme
 
+Package: com.jake.alert
+Name: Alert
+Depends: mobilesubstrate
+Filename: /Alert.deb
+MD5sum: 8eaa31500c6ee1c0a55ae3372717de7b
+SHA1: 3f469551402faac11a1c44bbec0b18703cd1387a
+SHA256: a37c397c302e00a4f5376975bd1ed68436683e64f0194098ede4eda102e5e63a
+Size: 3492
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This is a test tweak!
+Maintainer: Jake
+Author: Jake
+Section: Tweaks
+
